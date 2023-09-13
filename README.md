@@ -9,4 +9,4 @@ Actualmente me encuentro sumergida en el mundo de la data y visualización (creo
 - POWER BI
 - EXCEL
 
-## 💼 Preyoctos
+## 💼 Proyectos
