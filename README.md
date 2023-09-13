@@ -10,3 +10,4 @@ Actualmente me encuentro sumergida en el mundo de la data y visualización (creo
 - EXCEL
 
 ## 💼 Proyectos
+Mi portfolio disponible [aquí] 
