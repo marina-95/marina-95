@@ -1,6 +1,6 @@
-# Sobre mi
+# ✨Sobre mi
 
-### ¡Hola! ✨
+### ¡Hola! 
 
 Soy Marina, una ingeniera devenida en futura analista de datos **(👷🏻‍♀️ --> 👩🏻‍💻)**
 
