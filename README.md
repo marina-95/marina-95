@@ -1,5 +1,5 @@
 # ✨ Sobre mí
-![Banner](https://github.com/marina-95/marina-95/assets/144913530/6d9f03ae-c289-4682-818f-9d02e52846f0)
+![MR](https://github.com/marina-95/marina-95/assets/144913530/82874df9-747b-4c12-9b0b-ce6d4e584c22)
 
 ¡Hola! Soy Marina, una ingeniera devenida en futura analista de datos 👷🏻‍♀️ **-->** 👩🏻‍💻
 
