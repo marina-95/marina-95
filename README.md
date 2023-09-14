@@ -7,8 +7,8 @@ Actualmente me encuentro sumergida en el mundo de la data y visualización (creo
 
 ### 💻 Herramientas
 - SQL
-- POWER BI
-- EXCEL
+- Power BI
+- Excel
 
 ### 💼 Proyectos
 Mi portfolio disponible [aquí] 
