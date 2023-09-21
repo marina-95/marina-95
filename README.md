@@ -11,4 +11,4 @@ Actualmente me encuentro sumergida en el mundo de la data y visualización (creo
 - Excel
 
 ### 💼 Proyectos
-Mi portfolio disponible [aquí] 
+Mi portfolio disponible [aquí](https://github.com/marina-95/Portfolio) 
